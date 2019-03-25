@@ -1,15 +1,9 @@
-# group5TuesThurs
+# WhoozDat?
 
-#Project Title
-who dat is?
+View the live version on your cellphone [HERE](https://sharukurusu.github.io/whoozdat/)
 
 #Description
 A facial recognition web app that allows users to upload a picture of an actor in a movie they are watching, and recieve the name of the actor and other movies they have been in.
-
-#Initial Designs
-![alt text](assets/images/landing.jpg)
-![alt text](assets/images/result.jpg)
-
 
 #Team Members & Roles
 Alex: API Integration
@@ -20,6 +14,3 @@ Michael: Back End
 #Technologies Used
 Sightengine API
 OMDB API
-
-#Breakdown of Tasks/Schedule
-By Tuesday: Front-End Skeleton
